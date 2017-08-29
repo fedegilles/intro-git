@@ -2,3 +2,9 @@ body {
   font-style: sans-serif;
   color: red;
 }
+
+.box {
+  width: 500px;
+  height: 150px;
+  margin: auto;
+}
